@@ -22,7 +22,7 @@ class App extends Component{
 	}
 
 	renderReminders(){
-		const {reminders} = this.props; // does reminders = this.props.reminders
+		const {reminders} = this.props; //does reminders = this.props.reminders
 		return (
 			<ul className="list-group col-sm-4">
 				{
