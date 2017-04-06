@@ -2,6 +2,7 @@
   "name": "reminderpro",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mysterious-everglades-16607.herokuapp.com",
   "dependencies": {
     "moment": "^2.18.1",
     "react": "^15.4.2",
